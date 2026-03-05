@@ -18,6 +18,7 @@ source .venv/bin/activate  # Linux/Mac
 ## 3. Install
 ```
 pip install -r requirements.txt
+pip3 install "google-adk[extensions]"
 ```
 
 ## 4. Run
